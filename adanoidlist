@@ -1,0 +1,22 @@
+[Adblock Plus 2.0]
+! Name: adanoidlist
+! Expires: 30 days
+example.com##.example
+example.com###example
+example.com##example
+example.com##example > example
+||example.com
+@@||example.com
+example.com##a[href*="example.com"]
+kompas.com##[class='ol_container']
+kompas.com##[class='premium_div']
+kompas.com##[class='ads-latest-wrap']
+kompas.com##[class='bapps-middle']
+kompas.com##[class='kcm-track']
+kompas.com##[class='banner-300']
+detik.com##[class='smartbanner_newitpp_sb']
+detik.com##[class='ads-slot ad-slot--smb']
+detik.com##[class='box-ads text-center']
+detik.com##[class='box-ads box-ads--container']
+taboolanews.com##[class='cb-google-ad']
+taboolanews.com##[id='outer_*']
